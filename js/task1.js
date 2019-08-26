@@ -1,5 +1,5 @@
 "use strict";
 
-import * as users from "../users";
+import * as users from "../users.js";
 
-console.log(users);
+console.log(users.default);
